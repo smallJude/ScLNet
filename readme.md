@@ -4,13 +4,13 @@ ScLNet is a CNN backbone designed for viral perform region segmentation and extr
 
 
 
-![image-20231025103251740](C:\Users\Jude\AppData\Roaming\Typora\typora-user-images\image-20231025103251740.png)
+![image-20231025103251740](https://github.com/smallJude/ScLNet/blob/main/image/image_framework.tif)
 
 
 
 According to segmentation result ,we can extract the quantitative parameters for evaluating the lens fitting. 
 
-![image-20231025101503269](C:\Users\Jude\AppData\Roaming\Typora\typora-user-images\image-20231025101503269.png)
+![image-20231025101503269](https://github.com/smallJude/ScLNet/blob/main/image/image2.tif)
 
 ### 
 
